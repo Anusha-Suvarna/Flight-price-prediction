@@ -7,7 +7,7 @@ This project aims to predict flight prices based on various input parameters suc
 ##### The dataset used in this project comprises flight booking records with several columns:
 ##### •	Source : Downloaded from the internet (https://github.com/Anusha-Suvarna/flight___price___prediction/tree/main/dataset)
 ##### •	Records : Number of records in train dataset = 10683 , test dataset = 2671
-### •	Features : 
+##### •	Features : 
 1. Airline - The airline carrier for the flight.
 2. Date_of_Journey - The date of the flight journey.
 3. Source - The departure city.
