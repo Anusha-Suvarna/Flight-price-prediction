@@ -4,21 +4,21 @@
 This project aims to predict flight prices based on various input parameters such as airline, date of journey, source, destination, duration, and other flight-related information. The predictive model utilizes historical flight data to forecast prices for future bookings.
 
 ## Dataset
-#### The dataset used in this project comprises flight booking records with several columns:
-### •	Source: Downloaded from the internet (https://github.com/Anusha-Suvarna/flight___price___prediction/tree/main/dataset)
-### •	Records: Number of records in train dataset = 10683 , test dataset = 2671
-### •	Features: 
-#### o	Airline - The airline carrier for the flight.
-o	Date_of_Journey - The date of the flight journey.
-o	Source - The departure city.
-o	Destination - The arrival city.
-o	Route - Flight route information
-o	Dep_Time - Departure time of the flight.
-o	Arrival_Time – Arrival time of the flight
-o	Duration – Flight duration
-o	Total_Stops - The number of stoppages during the flight.
-o	Additional_Info - Extra flight-related information.
-o	Price - Flight price in the respective currency. (dependent variable)
+##### The dataset used in this project comprises flight booking records with several columns:
+##### •	Source: Downloaded from the internet (https://github.com/Anusha-Suvarna/flight___price___prediction/tree/main/dataset)
+##### •	Records: Number of records in train dataset = 10683 , test dataset = 2671
+#### •	Features: 
+##### o	Airline - The airline carrier for the flight.
+##### o	Date_of_Journey - The date of the flight journey.
+##### o	Source - The departure city.
+##### o	Destination - The arrival city.
+##### o	Route - Flight route information
+##### o	Dep_Time - Departure time of the flight.
+##### o	Arrival_Time – Arrival time of the flight
+##### o	Duration – Flight duration
+##### o	Total_Stops - The number of stoppages during the flight.
+##### o	Additional_Info - Extra flight-related information.
+##### o	Price - Flight price in the respective currency. (dependent variable)
 ## Analysis Goals
 •	Explore descriptive statistics of flight prices, durations, and popular routes
 •	Identify patterns and trends in flight pricing and travel times
