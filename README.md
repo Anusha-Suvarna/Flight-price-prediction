@@ -8,17 +8,19 @@ This project aims to predict flight prices based on various input parameters suc
 ##### •	Source : Downloaded from the internet (https://github.com/Anusha-Suvarna/flight___price___prediction/tree/main/dataset)
 ##### •	Records : Number of records in train dataset = 10683 , test dataset = 2671
 ### •	Features : 
-##### o	Airline - The airline carrier for the flight.
-##### o	Date_of_Journey - The date of the flight journey.
-##### o	Source - The departure city.
-##### o	Destination - The arrival city.
-##### o	Route - Flight route information
-##### o	Dep_Time - Departure time of the flight.
-##### o	Arrival_Time – Arrival time of the flight
-##### o	Duration – Flight duration
-##### o	Total_Stops - The number of stoppages during the flight.
-##### o	Additional_Info - Extra flight-related information.
-##### o	Price - Flight price in the respective currency. (dependent variable)
+1. Airline - The airline carrier for the flight.
+2. Date_of_Journey - The date of the flight journey.
+3. Source - The departure city.
+4. Destination - The arrival city.
+5. Route - Flight route information.
+6. Dep_Time - Departure time of the flight.
+7. Arrival_Time – Arrival time of the flight.
+8. Duration – Flight duration.
+9. Total_Stops - The number of stoppages during the flight.
+10. Additional_Info - Extra flight-related information.
+11. Price - Flight price in the respective currency. (dependent variable)
+
+    
 ## Analysis Goals
 ##### •	Explore descriptive statistics of flight prices, durations, and popular routes
 ##### •	Identify patterns and trends in flight pricing and travel times
@@ -26,6 +28,7 @@ This project aims to predict flight prices based on various input parameters suc
 ##### •	Detect anomalies or outliers in the data
 ##### •	Generate informative visualizations to communicate findings
 ##### •	Build predictive models for future flight prices
+
 
 ## Project Structure:
 ##### The project is structured into different sections :
@@ -38,22 +41,25 @@ This project aims to predict flight prices based on various input parameters suc
 3. **Web Application Development: **  
    The project includes a web interface built using HTML, CSS, and JavaScript (`index.html`). The backend of the web application is developed using Flask (`app.py`). This enables users to input flight parameters through the interface, and the trained model predicts the flight price based on these inputs.
 
+
 ## Installation
 ##### •	Jupyter Notebook 
 ##### •	PyCharm Community version 
 ## Modeling
 ### Models used and Accuracy results: 
-##### o	Extra Trees Regressor:  Accuracy 96.33%
-##### o	Random Forest Regressor:  Accuracy 79.10%
-##### o	Randomized Search CV:  Accuracy 79.83%
-##### o	Cat Boost Regressor:  Accuracy 82.73%
-##### o	LGBM Regressor:  Accuracy 80.30%
-##### o	XG Boost Regressor:  Accuracy 82.12%
+1.  Extra Trees Regressor:  Accuracy 96.33%
+2. 	Random Forest Regressor:  Accuracy 79.10%
+3. 	Randomized Search CV:  Accuracy 79.83%
+4. 	Cat Boost Regressor:  Accuracy 82.73%
+5. 	LGBM Regressor:  Accuracy 80.30%
+6. 	XG Boost Regressor:  Accuracy 82.12%
+
 
 ## How to Use
 1.	Clone the repository
 2.	Install required libraries: pip install -r requirements.txt (as mentioned in Project - Flight Price Prediction ,   By Anusha S Suvarna)
 3.	Run the analysis notebook: jupyter notebook (Project - Flight Price Prediction ,   By Anusha S Suvarna.ipynb)
+
 
  ## Usage:
  1. **Dataset Usage: **  
