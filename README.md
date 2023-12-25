@@ -3,6 +3,18 @@
 ## Description
 This project aims to predict flight prices based on various input parameters such as airline, date of journey, source, destination, duration, and other flight-related information. The predictive model utilizes historical flight data to forecast prices for future bookings.
 
+
+# Table of Contents
+
+- [Dataset](#Dataset)
+- [Analysis Goals](#Analysis-Goals)
+- [Project Structure](#Project-Structure)
+- [Installation](#Installation)
+- [Modeling](#Modeling)
+- [How to Use](#How-to-Use)
+- [Usage](#Usage)
+
+
 ## Dataset
 ##### The dataset used in this project comprises flight booking records with several columns:
 ##### •	Source : Downloaded from the internet (https://github.com/Anusha-Suvarna/flight___price___prediction/tree/main/dataset)
@@ -45,6 +57,8 @@ This project aims to predict flight prices based on various input parameters suc
 ## Installation
 ##### •	Jupyter Notebook 
 ##### •	PyCharm Community version 
+
+
 ## Modeling
 ### Models used and Accuracy results: 
 1.  Extra Trees Regressor :   Accuracy 96.33%
