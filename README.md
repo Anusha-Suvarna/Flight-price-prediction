@@ -32,13 +32,13 @@ This project aims to predict flight prices based on various input parameters suc
 
 ## Project Structure:
 ##### The project is structured into different sections :
-1. **Data Preprocessing and Feature Engineering: **  
+1. Data Preprocessing and Feature Engineering:  
   This section involves cleaning and preparing the dataset for model training. Tasks may include handling missing values, converting date and time columns, encoding categorical variables, and deriving new features if necessary.
 
-2. **Model Training: **  
+2. Model Training: 
    The machine learning model is trained using the preprocessed dataset. This step involves selecting appropriate features, splitting the dataset into training and testing sets, and training the model using regression or another suitable algorithm.
 
-3. **Web Application Development: **  
+3. Web Application Development:  
    The project includes a web interface built using HTML, CSS, and JavaScript (`index.html`). The backend of the web application is developed using Flask (`app.py`). This enables users to input flight parameters through the interface, and the trained model predicts the flight price based on these inputs.
 
 
