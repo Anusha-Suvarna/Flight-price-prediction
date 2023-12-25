@@ -47,12 +47,12 @@ This project aims to predict flight prices based on various input parameters suc
 ##### •	PyCharm Community version 
 ## Modeling
 ### Models used and Accuracy results: 
-1.  Extra Trees Regressor:  Accuracy 96.33%
-2. 	Random Forest Regressor:  Accuracy 79.10%
-3. 	Randomized Search CV:  Accuracy 79.83%
-4. 	Cat Boost Regressor:  Accuracy 82.73%
-5. 	LGBM Regressor:  Accuracy 80.30%
-6. 	XG Boost Regressor:  Accuracy 82.12%
+1.  Extra Trees Regressor :   Accuracy 96.33%
+2. 	Random Forest Regressor :   Accuracy 79.10%
+3. 	Randomized Search CV :   Accuracy 79.83%
+4. 	Cat Boost Regressor :   Accuracy 82.73%
+5. 	LGBM Regressor :   Accuracy 80.30%
+6. 	XG Boost Regressor :   Accuracy 82.12%
 
 
 ## How to Use
