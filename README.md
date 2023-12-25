@@ -27,8 +27,8 @@ This project aims to predict flight prices based on various input parameters suc
 ##### •	Generate informative visualizations to communicate findings
 ##### •	Build predictive models for future flight prices
 
-##Project Structure:
-##### The project is structured into different sections:
+## Project Structure:
+##### The project is structured into different sections :
 1. **Data Preprocessing and Feature Engineering: **  
   This section involves cleaning and preparing the dataset for model training. Tasks may include handling missing values, converting date and time columns, encoding categorical variables, and deriving new features if necessary.
 
@@ -42,7 +42,7 @@ This project aims to predict flight prices based on various input parameters suc
 ##### •	Jupyter Notebook 
 ##### •	PyCharm Community version 
 ## Modeling
-###•	Models used and Accuracy results: 
+### Models used and Accuracy results: 
 ##### o	Extra Trees Regressor:  Accuracy 96.33%
 ##### o	Random Forest Regressor:  Accuracy 79.10%
 ##### o	Randomized Search CV:  Accuracy 79.83%
@@ -56,7 +56,7 @@ This project aims to predict flight prices based on various input parameters suc
 3.	Run the analysis notebook: jupyter notebook (Project - Flight Price Prediction ,   By Anusha S Suvarna.ipynb)
 
  ## Usage:
-1. **Dataset Usage: **  
+ 1. **Dataset Usage: **  
 #####      - Utilize the dataset Data_Train for training machine learning models aimed at predicting flight prices.
 #####      - Employ the data preprocessing steps outlined in the project to clean and prepare new flight data for 
 analysis or model training.
