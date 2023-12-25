@@ -4,7 +4,7 @@
 This project aims to predict flight prices based on various input parameters such as airline, date of journey, source, destination, duration, and other flight-related information. The predictive model utilizes historical flight data to forecast prices for future bookings.
 
 
-# Table of Contents
+## Table of Contents
 
 - [Dataset](#Dataset)
 - [Analysis Goals](#Analysis-Goals)
