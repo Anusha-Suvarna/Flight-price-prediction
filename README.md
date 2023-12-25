@@ -57,8 +57,8 @@ This project aims to predict flight prices based on various input parameters suc
 
 ## How to Use
 1.	Clone the repository
-2.	Install required libraries: pip install -r requirements.txt (as mentioned in [Project - Flight Price Prediction ,   By Anusha S Suvarna](https://github.com/Anusha-Suvarna/flight___price___prediction/blob/main/Project%20-%20Flight%20Price%20Prediction%20%2C%20%20%20By%20Anusha%20S%20Suvarna.ipynb))
-3.	Run the analysis notebook: jupyter notebook ([Project - Flight Price Prediction ,   By Anusha S Suvarna.ipynb](https://github.com/Anusha-Suvarna/flight___price___prediction/blob/main/Project%20-%20Flight%20Price%20Prediction%20%2C%20%20%20By%20Anusha%20S%20Suvarna.ipynb))
+2.	Install required libraries: `pip install -r requirements.txt` (as mentioned in [Project - Flight Price Prediction ,   By Anusha S Suvarna](https://github.com/Anusha-Suvarna/flight___price___prediction/blob/main/Project%20-%20Flight%20Price%20Prediction%20%2C%20%20%20By%20Anusha%20S%20Suvarna.ipynb))
+3.	Run the analysis notebook: `jupyter notebook`  ([Project - Flight Price Prediction ,   By Anusha S Suvarna.ipynb](https://github.com/Anusha-Suvarna/flight___price___prediction/blob/main/Project%20-%20Flight%20Price%20Prediction%20%2C%20%20%20By%20Anusha%20S%20Suvarna.ipynb))
 
 
  ## Usage:
