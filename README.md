@@ -57,18 +57,17 @@ This project aims to predict flight prices based on various input parameters suc
 
 ## How to Use
 1.	Clone the repository
-2.	Install required libraries: pip install -r requirements.txt (as mentioned in Project - Flight Price Prediction ,   By Anusha S Suvarna)
-3.	Run the analysis notebook: jupyter notebook (Project - Flight Price Prediction ,   By Anusha S Suvarna.ipynb)
+2.	Install required libraries: pip install -r requirements.txt (as mentioned in [Project - Flight Price Prediction ,   By Anusha S Suvarna](https://github.com/Anusha-Suvarna/flight___price___prediction/blob/main/Project%20-%20Flight%20Price%20Prediction%20%2C%20%20%20By%20Anusha%20S%20Suvarna.ipynb))
+3.	Run the analysis notebook: jupyter notebook ([Project - Flight Price Prediction ,   By Anusha S Suvarna.ipynb](https://github.com/Anusha-Suvarna/flight___price___prediction/blob/main/Project%20-%20Flight%20Price%20Prediction%20%2C%20%20%20By%20Anusha%20S%20Suvarna.ipynb))
 
 
  ## Usage:
- 1. **Dataset Usage: **  
+ 1. Dataset Usage:
 #####      - Utilize the dataset Data_Train for training machine learning models aimed at predicting flight prices.
 #####      - Employ the data preprocessing steps outlined in the project to clean and prepare new flight data for 
 analysis or model training.
 #####      - Utilize the dataset Test_set for testing machine learning models aimed at predicting flight prices.
-
-2. **Code Sections: **  
+2. Code Sections: 
 #####        - Run the data preprocessing section to clean and preprocess datasets.
 #####        - Train the model using the appropriate section for model building.
 #####       - Launch the web application section to deploy the trained model, enabling users to predict flight prices via a user-friendly interface.
