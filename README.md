@@ -74,6 +74,7 @@ This project aims to predict flight prices based on various input parameters suc
 2.	Navigate to the project directory:  `cd Flight-price-prediction`
 3.	Install required libraries: pip install `pandas` `numpy` `matplotlib` `seaborn` `plotly` `sklearn flask`
 4.	Run the analysis notebook: `jupyter notebook`  ([Project - Flight Price Prediction ,   By Anusha S Suvarna.ipynb](https://github.com/Anusha-Suvarna/flight___price___prediction/blob/main/Project%20-%20Flight%20Price%20Prediction%20%2C%20%20%20By%20Anusha%20S%20Suvarna.ipynb))
+5.	Deployment and integration: Generating a `model.pkl` pickle file for the trained model and utilizing `Flask` to deploy the model as a web application, allowing users to input flight-related parameters for future prediction.
 
 
  ## Usage:
