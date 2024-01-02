@@ -45,7 +45,7 @@ This project aims to predict flight prices based on various input parameters suc
 ## Project Structure:
 ##### The project is structured into different sections :
 1. Data Preprocessing and Feature Engineering:  
-  This section involves cleaning and preparing the dataset for model training. Tasks may include handling missing values, converting date and time columns, encoding categorical variables, and deriving new features if necessary.
+  This section involves cleaning and preparing the dataset for model training. Tasks  include handling missing values, converting date and time columns, encoding categorical variables, and deriving new features if necessary.
 
 2. Model Training: 
    The machine learning model is trained using the preprocessed dataset. This step involves selecting appropriate features, splitting the dataset into training and testing sets, and training the model using regression or another suitable algorithm.
