@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=B48FF7&random=false&width=460&height=70&lines=Flight+Price+Prediction">
+</div>
+
 # Flight Price Prediction 
 
 ## Description
