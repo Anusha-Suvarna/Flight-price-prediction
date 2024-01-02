@@ -72,7 +72,7 @@ This project aims to predict flight prices based on various input parameters suc
 ## How to Use
 1.	Clone the repository: `git clone https://github.com/your_username/Flight-price-prediction.git`
 2.	Navigate to the project directory:  `cd Flight-price-prediction`
-3.	Install required libraries: `pip install -r requirements.txt` (as mentioned in [Project - Flight Price Prediction ,   By Anusha S Suvarna](https://github.com/Anusha-Suvarna/flight___price___prediction/blob/main/Project%20-%20Flight%20Price%20Prediction%20%2C%20%20%20By%20Anusha%20S%20Suvarna.ipynb))
+3.	Install required libraries: pip install `pandas` `numpy` `matplotlib` `seaborn` `plotly` `sklearn flask`
 4.	Run the analysis notebook: `jupyter notebook`  ([Project - Flight Price Prediction ,   By Anusha S Suvarna.ipynb](https://github.com/Anusha-Suvarna/flight___price___prediction/blob/main/Project%20-%20Flight%20Price%20Prediction%20%2C%20%20%20By%20Anusha%20S%20Suvarna.ipynb))
 
 
