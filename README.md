@@ -34,16 +34,16 @@ This project aims to predict flight prices based on various input parameters suc
 
     
 ## Analysis Goals
-##### •	Explore descriptive statistics of flight prices, durations, and popular routes
-##### •	Identify patterns and trends in flight pricing and travel times
-##### •	Compare flight options based on various criteria
-##### •	Detect anomalies or outliers in the data
-##### •	Generate informative visualizations to communicate findings
-##### •	Build predictive models for future flight prices
+-	Explore descriptive statistics of flight prices, durations, and popular routes
+-	Identify patterns and trends in flight pricing and travel times
+-	Compare flight options based on various criteria
+-	Detect anomalies or outliers in the data
+-	Generate informative visualizations to communicate findings
+-	Build predictive models for future flight prices
 
 
 ## Project Structure:
-##### The project is structured into different sections :
+#### The project is structured into different sections :
 1. Data Preprocessing and Feature Engineering:  
   This section involves cleaning and preparing the dataset for model training. Tasks  include handling missing values, converting date and time columns, encoding categorical variables, and deriving new features if necessary.
 
