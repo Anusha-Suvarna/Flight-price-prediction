@@ -78,12 +78,12 @@ This project aims to predict flight prices based on various input parameters suc
 
  ## Usage:
  1. Dataset Usage:
-#####      - Utilize the dataset Data_Train for training machine learning models aimed at predicting flight prices.
-#####      - Employ the data preprocessing steps outlined in the project to clean and prepare new flight data for analysis or model training.
-#####      - Utilize the dataset Test_set for testing machine learning models aimed at predicting flight prices.
+- Utilize the dataset Data_Train for training machine learning models aimed at predicting flight prices.
+- Employ the data preprocessing steps outlined in the project to clean and prepare new flight data for analysis or model training.
+- Utilize the dataset Test_set for testing machine learning models aimed at predicting flight prices.
 2. Code Sections: 
-#####        - Run the data preprocessing section to clean and preprocess datasets.
-#####        - Train the model using the appropriate section for model building.
-#####       - Launch the web application section to deploy the trained model, enabling users to predict flight prices via a user-friendly interface.
+- Run the data preprocessing section to clean and preprocess datasets.
+- Train the model using the appropriate section for model building.
+- Launch the web application section to deploy the trained model, enabling users to predict flight prices via a user-friendly interface.
 
 
